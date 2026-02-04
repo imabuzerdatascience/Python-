@@ -59,4 +59,14 @@ def introduce(**kwrgs) :
         detils.append(k + ":" + str(val))
     return " , " .join(detils) 
 
-print(introduce(Name="Alice", Age=25, City="New York"))
+print(introduce(Name="Alice", Age=25, City="New York"))  
+
+
+
+def company_details(**kwrgs) : 
+    for k , val in kwrgs.items() : 
+     print(k , val )
+
+print(company_details(name = "Abuzer_company" , address = "brt_06"))
+
+

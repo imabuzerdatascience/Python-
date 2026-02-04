@@ -1,0 +1,52 @@
+[
+  {
+    "id": "p001",
+    "name": "Wireless Bluetooth Headphones",
+    "description": "High-quality wireless headphones with noise cancellation.",
+    "price": 59.99,
+    "currency": "USD",
+    "category": "Electronics",
+    "brand": "SoundX",
+    "images": [
+      "https://example.com/images/headphones1.jpg",
+      "https://example.com/images/headphones2.jpg"
+    ],
+    "stock": 120,
+    "rating": 4.5,
+    "reviews": 234,
+    "available": true
+  },
+  {
+    "id": "p002",
+    "name": "Smartwatch Series 5",
+    "description": "Water-resistant smartwatch with fitness tracking and heart-rate monitoring.",
+    "price": 129.99,
+    "currency": "USD",
+    "category": "Wearables",
+    "brand": "TechTime",
+    "images": [
+      "https://example.com/images/smartwatch1.jpg",
+      "https://example.com/images/smartwatch2.jpg"
+    ],
+    "stock": 75,
+    "rating": 4.7,
+    "reviews": 180,
+    "available": true
+  },
+  {
+    "id": "p003",
+    "name": "Eco-Friendly Notebook",
+    "description": "Recycled paper notebook with a soft cover, ideal for school or journaling.",
+    "price": 4.99,
+    "currency": "USD",
+    "category": "Stationery",
+    "brand": "GreenWrite",
+    "images": [
+      "https://example.com/images/notebook1.jpg"
+    ],
+    "stock": 500,
+    "rating": 4.3,
+    "reviews": 98,
+    "available": true
+  }
+]
